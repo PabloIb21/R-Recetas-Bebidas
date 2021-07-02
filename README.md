@@ -1,4 +1,4 @@
-# Buscador de canciones
+# Recetas de Bebidas
 
 _Proyecto de un buscador de recetas de bebidas en React._
 
